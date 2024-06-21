@@ -4,10 +4,7 @@
 
 #define BOOT_MGR_H
 
-#include <fstream>
-#include <direct.h>
 #include "usr_mgr.h"
-using namespace std;
 
 namespace boot_mgr
 {

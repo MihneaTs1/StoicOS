@@ -3,14 +3,6 @@
 #ifndef USR_MGR_H
 #define USR_MGR_H
 
-#include <iostream>
-#include <fstream>
-#include <direct.h>
-#include <conio.h>
-#include <Windows.h>
-
-using namespace std;
-
 string get_pass() /// Safe password get method
 {
     string ret = "";
@@ -58,4 +50,3 @@ namespace usr_mgr
 }
 
 #endif // usr_mgr
-#pragma once
