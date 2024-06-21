@@ -15,5 +15,7 @@ int main()
     boot_mgr::startup();
     terminal::init();
 
+    /// lotomba
+
     return 0;
 }
