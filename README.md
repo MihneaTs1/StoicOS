@@ -1,0 +1,2 @@
+# StoicOS
+Python-based terminal
