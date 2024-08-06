@@ -1,4 +1,5 @@
 def run(args):
+
     if not args:
         print("Usage: cat <filename>")
         return

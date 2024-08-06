@@ -2,6 +2,7 @@ import os
 
 
 def run(args):
+
     if args:
         path = args[0]
     else:
