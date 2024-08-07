@@ -1,7 +1,7 @@
 import os
 import importlib
 
-
+os_ver = "version 0.1P Alpha"
 
 def load_modules():
     modules = {}
@@ -15,7 +15,7 @@ def load_modules():
 
 
 def main():
-    print("Welcome to the terminal-based OS!")
+    print(f"Welcome to StoicOS {os_ver}!")
     modules = load_modules()
 
     while True:
